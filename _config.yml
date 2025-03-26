@@ -1,1 +1,5 @@
-theme: jekyll-theme-slate
+title: Sued 
+description: Super Editor für die tägliche Arbeit.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
